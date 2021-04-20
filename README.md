@@ -1,6 +1,6 @@
 # Visualizing Data with Leaflet
 
-### https://alexarnold630.github.io/SMU_Homework/17-Mapping-Web/Submission/index.html
+### https://alexarnold630.github.io/Visualizing_Data_Leaflet/index.html
 
 ## Background
 
